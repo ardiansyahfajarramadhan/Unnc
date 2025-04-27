@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galaksi Abstrak</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="background">
+        <div class="meteor"></div>
+        <div class="planet"></div>
+    </div>
+
+    <div class="content">
+
+        <h1>Welcome to XcentaEnigmaSE Team</h1>
+        <p>Student & Engine</p>
+
+        <div class="buttons">
+            <a href="https://wa.me/yourwhatsappnumber" class="button">WhatsApp</a>
+            <a href="https://instagram.com/yourinstagram" class="button">Instagram</a>
+            <a href="https://tiktok.com/@yourtiktok" class="button">TikTok</a>
+            <a href="https://vdi.xcenta.my.id" class="button">Jellyfin</a>
+        </div>
+
+    </div>
+    <audio controls autoplay loop>
+        <source src="Nina - .Feast (KARAOKE VERSION) - Karaoke Music.mp3" type="audio/mpeg">
+    </audio>
+    <script src="script.js"></script>
+
+</body>
+</html>
